@@ -9,7 +9,7 @@ The final system CHLOE_Parallel7 requires the hardware, the rest are independent
 
 The contributors to this project are : Nischal K N, Praveen Nayak, Nihal Winston, Prashant GL, all of the 2014 ECE batch, MSRIT.
 
-For more details, check out https://sites.google.com/site/praveenmnayak1209/projects/chloe
+For more details, check out https://sites.google.com/site/praveenmnayak1209/projects/chloe.
 The AI uses a PDP approach for decision making and a Staged approach for memory organization.  
 The project report (at the bottom of the page) has a description of each module in detail, and the hardware, firmware and 
 mechanical designs. 
