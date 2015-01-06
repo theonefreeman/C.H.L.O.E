@@ -1,0 +1,8 @@
+Download the entire folder v2
+
+to add to database
+1) run capture.py - press space to capture ur photo 5 times. The program then closes automatically
+2) confirm presence of 5 images in the last sub folder of Database folder
+3) run training.py to add ur images to the database. Click space after each image is displayed.
+4) open names.csv and add your name in the next row
+5) run facedetect.py
